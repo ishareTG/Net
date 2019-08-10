@@ -5,28 +5,33 @@
 
 clash 下载地址https://github.com/Fndroid/clash_for_windows_pkg/releases
 
-SSR   下载地址https://github.com/ishareTG/Net/blob/master/ssr-win.7z
+SSR   下载地https://raw.githubusercontent.com/ishareTG/Net/master/ssr-win.7z
 
-V2Ray 下载地址https://github.com/ishareTG/Net/blob/master/V2RayN-win.zip 
+V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2RayN-win.zip 
+
+SSTap 游戏加速客户端https://raw.githubusercontent.com/ishareTG/Net/master/SSTap.7z
+
+Netch 游戏加速客户端https://github.com/netchx/Netch/releases
+
 
 # 安卓系统
 
-clash 下载地址https://github.com/ishareTG/Net/blob/master/clashA-0.0.1-beta3.apk
+clash 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/clashA-0.0.1-beta3.apk
 
-SSR   下载地址https://github.com/ishareTG/Net/blob/master/ssr-android.apk
+SSR   下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ssr-android.apk
 
-V2Ray 下载地址https://github.com/ishareTG/Net/blob/master/V2Ray--android.apk
+V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2Ray--android.apk
 
 kitsunebi 下载地址https://github.com/eycorsican/kitsunebi-android
 
 
 # 苹果电脑Mac系统
 
-clash 下载地址https://github.com/ishareTG/Net/blob/master/ClashX-1.10.3.dmg
+clash 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ClashX-1.10.3.dmg
 
-SSR   下载地址https://github.com/ishareTG/Net/blob/master/ssr-mac.dmg
+SSR   下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ssr-mac.dmg
 
-V2Ray 下载地址https://github.com/ishareTG/Net/blob/master/V2RayX.app.zip
+V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2RayX.app.zip
 
 
 # 苹果手机IOS系统
