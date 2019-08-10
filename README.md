@@ -1,5 +1,5 @@
 # 需要更多帮助，请加入TG群：https://t.me/iShareTG
-
+# 软件使用教程，请查看https://github.com/ishareTG/Net/blob/master/help.md
 
  # WIN系统
 
