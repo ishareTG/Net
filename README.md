@@ -1,4 +1,4 @@
-# 需要更多帮助，请加入TG群：https://t.me/iShareTG
+# 需要更多帮助，请加入TG群：https://t.me/Fly1024
 # 软件使用教程，请查看https://github.com/ishareTG/Net/blob/master/help.md
 
  # WIN系统
@@ -53,7 +53,7 @@ Surge：最强大的网络工具，没有之一，集科学上网、抓包、脚
 
 收费版app获取途径
 
-1.进电报群https://t.me/iShareTG 成为活跃群友或通过群渠道的glados付费用户可联系管理免费获得
+1.进电报群https://t.me/Fly1024 成为活跃群友或通过群渠道的glados付费用户可联系管理免费获得
 
 2.自己注册美区ID，绑定外币信用卡购买
 
