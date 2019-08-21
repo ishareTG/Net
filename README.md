@@ -37,16 +37,20 @@ V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2RayX.a
 # 苹果手机IOS系统
 
 注意：科学上网工具都从中国App Store下架，以下软件均需在美国App Store下载（App Store登录美区ID自动切换到美区商店）
-      
-      美区ID：b1n77e3zo@163.com 密码： Dd112211
-      下载后，记得及时退出账号，切勿登陆iCloud，切勿登陆iCloud
+
 # 免费版      
 potatso（俗称土豆丝）： 美区商店可免费下载，登录上面提供的美区ID可免费下载。
 
 # 收费版
 
 Shadowrocket（俗称小火箭）： 美区App Store售价2.99美元，
-
+      
+-------------------------------------
+账号：gongzhijing8152@163.com
+密码：Dd112211
+⚠️登陆AppStore下载后及时退出
+⚠️严禁登陆iCloud，后果自负
+-------------------------------------
 Quantumult （俗称圈）：美区App Store售价4.99美元
 
 Surge：最强大的网络工具，没有之一，集科学上网、抓包、脚本为一体。 美区可免费下载，但是有内购，49.99美元可授权3个设备使用。
