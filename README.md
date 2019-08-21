@@ -1,5 +1,5 @@
 # 需要更多帮助，请加入TG群：https://t.me/Fly1024
-# 软件使用教程，请查看https://github.com/ishareTG/Net/blob/master/help.md
+
 
 # 苹果手机IOS系统（⚠️下载后及时退出ID，切勿登陆iCloud）
 
