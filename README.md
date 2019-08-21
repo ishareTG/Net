@@ -41,7 +41,7 @@ V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2RayX.a
 # 免费版      
 potatso（俗称土豆丝）： 美区商店可免费下载，登录上面提供的美区ID可免费下载。
 
-# 收费版（⚠️登陆AppStore下载后及时退出，切勿登陆iCloud）
+# 收费版（⚠️下载后及时退出ID，切勿登陆iCloud）
 
 Shadowrocket（俗称小火箭）： 美区App Store售价2.99美元，
       
