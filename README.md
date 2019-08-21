@@ -34,20 +34,20 @@ SSR   下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ssr-mac.
 V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2RayX.app.zip
 
 
-# 苹果手机IOS系统
+# 苹果手机IOS系统（⚠️下载后及时退出ID，切勿登陆iCloud）
 
 注意：科学上网工具都从中国App Store下架，以下软件均需在美国App Store下载（App Store登录美区ID自动切换到美区商店）
 
 # 免费版      
 potatso（俗称土豆丝）： 美区商店可免费下载，登录下面提供的美区ID可免费下载。
+------------------------------------------------
+  美区ID：b1n77e3zo@163.com 
+  密码： Dd112211
+---------------------------------------------
 
-  美区ID：b1n77e3zo@163.com 密码： Dd112211
-  下载后，记得及时退出账号，切勿登陆iCloud，切勿登陆iCloud
+# 收费版
 
-# 收费版（⚠️下载后及时退出ID，切勿登陆iCloud）
-
-Shadowrocket（俗称小火箭）： 美区App Store售价2.99美元，
-      
+Shadowrocket（俗称小火箭）： 美区App Store售价2.99美元，     
 -------------------------------------
     账号：gongzhijing8152@163.com   
     密码：Dd112211
