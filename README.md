@@ -1,7 +1,7 @@
 # 需要更多帮助，请加入TG群：https://t.me/Fly1024
 
 
-# 苹果手机IOS系统（⚠️下载后及时退出ID，切勿登陆iCloud）
+# 一、苹果手机IOS系统（⚠️下载后及时退出ID，切勿登陆iCloud）
 
 注意：以下Apple ID已经购买对应的软件，登录App Store后可免费下载。
 
@@ -25,7 +25,7 @@ Surge：最强大的网络工具，没有之一，集科学上网、抓包、脚
 
 Quantumult、Surge获取途径：进电报群https://t.me/Fly1024 成为活跃群友后获取
 
- # WIN系统
+ # 二、WIN系统
 
 clash 下载地址https://github.com/Fndroid/clash_for_windows_pkg/releases
 
@@ -38,7 +38,7 @@ SSTap 游戏加速客户端https://raw.githubusercontent.com/ishareTG/Net/master
 Netch 游戏加速客户端https://github.com/netchx/Netch/releases
 
 
-# 安卓系统
+# 三、安卓系统
 
 clash 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/clashA-0.0.1-beta3.apk
 
@@ -49,7 +49,7 @@ V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2Ray--a
 kitsunebi 下载地址https://github.com/eycorsican/kitsunebi-android
 
 
-# 苹果电脑Mac系统
+# 四、苹果电脑Mac系统
 
 clash 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ClashX-1.10.3.dmg
 
