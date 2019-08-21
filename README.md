@@ -3,7 +3,7 @@
 
 # 苹果手机IOS系统（⚠️下载后及时退出ID，切勿登陆iCloud）
 
-注意：科学上网工具都从中国App Store下架，以下软件均需在美国App Store下载（App Store登录美区ID自动切换到美区商店）
+注意：以下Apple ID已经购买对应的软件，登录App Store后可免费下载。
 
 # 免费版      
 potatso（俗称土豆丝）：免费，有广告
