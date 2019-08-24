@@ -40,7 +40,7 @@ Netch 游戏加速客户端https://github.com/netchx/Netch/releases
 
 # 三、安卓系统
 
-clash 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/clashA-0.0.1-beta3.apk
+clash 下载地址https://glados.network/tools/clash.apk
 
 SSR   下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ssr-android.apk
 
