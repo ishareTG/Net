@@ -9,19 +9,26 @@
 # 第三步
 
 1.安卓手机
+
 下载clash软件 https://glados.network/tools/clash.apk
+
 输入配置文件地址（这样的格式 https://glados.network/clash/****/****/****/glados.yaml）
+
 下载配置
+
 开始代理
 
 2.iPhone/iPad
 
 用下面提供的美区ID登陆App Store下载potatso lite
-账号：b1n77e3zo@163.com 
-密码：Dd112211
+
+     账号：b1n77e3zo@163.com 
+     密码：Dd112211
 
 3.win系统
+
 下载clash软件 https://pan.baidu.com/s/15S_lWoMa1hC0WY77TkBctg
 
 4.Mac os系统
+
 下载clash软件https://pan.baidu.com/s/1hwJDg3ZMeEIXRVQRSWWuFw
