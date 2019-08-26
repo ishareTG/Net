@@ -18,7 +18,7 @@ Quantumult （俗称圈）：美区App Store售价4.99美元
 
 Surge：最强大的网络工具，没有之一，集科学上网、抓包、脚本为一体。 美区可免费下载，但是有内购，49.99美元可授权3个设备使用。
 
-Quantumult、Surge获取途径：进电报群https://t.me/Fly1024 成为活跃群友后获取
+Shadowrocket、Quantumult、Surge获取途径：进电报群https://t.me/Fly1024 成为活跃群友后获取
 
  # 二、WIN系统
 
