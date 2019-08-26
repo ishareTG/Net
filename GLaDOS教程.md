@@ -4,7 +4,9 @@
 
 # 第二步
 
-输入手机号====＞获取验证码（Get Code）====＞输入验证码后登陆（Login）====＞输入邀请码VUDXN-YYG90-I9LLS-74KPJ
+输入手机号====＞获取验证码（Get Code）====＞输入验证码后登陆（Login）
+
+====＞输入邀请码VUDXN-YYG90-I9LLS-74KPJ====＞兑换
 
 # 第三步
 
@@ -18,6 +20,7 @@
 
 开始代理
 
+
 2.iPhone/iPad
 
 用下面提供的美区ID登陆App Store下载potatso lite
@@ -25,9 +28,11 @@
      账号：b1n77e3zo@163.com 
      密码：Dd112211
 
+
 3.win系统
 
 下载clash软件 https://pan.baidu.com/s/15S_lWoMa1hC0WY77TkBctg
+
 
 4.Mac os系统
 
