@@ -6,17 +6,11 @@
 
 ====＞输入邀请码VUDXN-YYG90-I9LLS-74KPJ====＞兑换
 
-# 第二步 下载软件并配置
+# 第二步 下载软件
 
 1.安卓手机
 
 下载clash软件 https://glados.network/tools/clash.apk
-
-输入配置文件地址（这样的格式 https://glados.network/clash/****/****/****/glados.yaml）
-
-下载配置
-
-开始代理
 
 
 2.iPhone/iPad
@@ -35,3 +29,12 @@
 4.Mac os系统
 
 下载clash软件https://pan.baidu.com/s/1hwJDg3ZMeEIXRVQRSWWuFw
+
+#  第三步 配置
+
+
+安卓客户端 输入配置文件地址（这样的格式 https://glados.network/clash/****/****/****/glados.yaml）
+
+下载配置
+
+开始代理
