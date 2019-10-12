@@ -16,14 +16,14 @@ clash/shadowrocket/quantumult/surge
 ----
 # Lists
 
-- [ ]APP
+- APP
     - [x] Shadowrocket
     - [x] Quantumult
     - [ ] Kitsunebi
-- [ ]Proxy
+- Proxy
     - [x] GLaDOS
     - [x] iShare
-- [ ]Rules
+- Rules
     - [x] Clash
     - [x] Suege
 ----
