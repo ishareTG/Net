@@ -8,7 +8,7 @@ clash/shadowrocket/quantumult等
 # [节点(Proxy)](https://github.com/ishareTG/Net/tree/master/Proxy)
 ss/ssr/v2ray等
 
-# [规则(Rules)](https://github.com/ishareTG/Net/tree/master/Rules)
+# [规则(Rule)](https://github.com/ishareTG/Net/tree/master/Rule)
 clash/shadowrocket/quantumult/surge
 
 # 需要更多帮助，请加入TG群：https://t.me/Fly1024
@@ -23,7 +23,7 @@ clash/shadowrocket/quantumult/surge
 - Proxy
     - [x] GLaDOS
     - [x] iShare
-- Rules
+- Rule
     - [x] Clash
     - [x] Suege
 ----
