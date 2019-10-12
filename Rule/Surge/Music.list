@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,music.126.net,Music
+DOMAIN-SUFFIX,music.163.com, Music
+USER-AGENT,NeteaseMusic*, Music
+USER-AGENT,NeteaseMusic**, Music
+IP-CIDR,223.252.199.0/24, Music
+IP-CIDR,59.111.181.0/24, Music
+IP-CIDR,115.236.118.0/24, Music 
+DOMAIN-KEYWORD,netease, Music
