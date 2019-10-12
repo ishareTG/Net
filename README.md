@@ -1,7 +1,7 @@
 # 需要更多帮助，请加入TG群：https://t.me/Fly1024
 
 
-# 一、苹果手机IOS系统（⚠️下载后及时退出ID，切勿登陆iCloud）
+# 一、苹果手机IOS系统（⚠️ID不要登陆iCloud）
 
 # 免费版      
 potatso（俗称土豆丝）：免费，有广告
