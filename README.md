@@ -13,17 +13,3 @@ clash/shadowrocket/quantumult/surge
 
 # 需要更多帮助，请加入TG群：https://t.me/Fly1024
 
-----
-# Lists
-
-- APP
-    - [x] Shadowrocket
-    - [x] Quantumult
-    - [ ] Kitsunebi
-- Proxy
-    - [x] GLaDOS
-    - [x] iShare
-- Rule
-    - [x] Clash
-    - [x] Suege
-----
