@@ -1,10 +1,10 @@
 # 第一步 注册
 
-打开网站 https://glados.network/login （请复制到浏览器打开，直接点击跳转无效）
+打开网站 https://glados001.com/login （请复制到浏览器打开，直接点击跳转无效）
 
 输入手机号====＞获取验证码（Get Code）====＞输入验证码后登陆（Login）
 
-====＞输入邀请码VUDXN-YYG90-I9LLS-74KPJ====＞兑换
+====＞输入邀请码VUDXN-YYG90-I9LLS-74KPJ====＞兑换，可获得28天会员
 
 # 第二步 下载软件
 
