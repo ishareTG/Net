@@ -11,5 +11,6 @@ ss/ssr/v2ray等
 # [规则(Rule)](https://github.com/ishareTG/Net/tree/master/Rule)
 clash/shadowrocket/quantumult/surge
 
-# 需要更多帮助，请加入TG群：https://t.me/Fly1024
+# 获取更多资源，请进入👉[电报群](https://t.me/Fly1024)
+
 
