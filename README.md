@@ -57,7 +57,9 @@ SSR   下载地址https://raw.githubusercontent.com/ishareTG/Net/master/ssr-mac.
 
 V2Ray 下载地址https://raw.githubusercontent.com/ishareTG/Net/master/V2RayX.app.zip
 
-以上只是软件，需要节点服务器请参考以下方式获取
+
+
+# 以上只是软件，需要节点服务器请参考以下方式获取
 
 1.注册GLaDOS免费获得28天会员（注册教程http://上网.ml/?page_id=123）
 2.加入TG群：https://t.me/Fly1024 获取
