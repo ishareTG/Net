@@ -1,4 +1,4 @@
-# 欢迎关注![markdown](https://github.com/ishareTG/Net/blob/master/iShare-logo.png?raw=true "markdown")
+![markdown](https://github.com/ishareTG/Net/blob/master/iShare-logo.png?raw=true "markdown")
 
 #### 「iShare是一个专注于技术交流与分享的平台」
 
