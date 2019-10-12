@@ -1,26 +1,4 @@
-俄罗斯 = vmess, ru.sixu.cf, 443, username=5b304ad9-bb5a-4dc3-bd5d-1fa2f3f12bb4, ws=ture, ws-path=/, ws-headers=Host:ru.sixu.cf,tls=ture 
-美国 = vmess, 154.13.29.176, 63124, username=fccc968d-f171-4126-afd1-49cd8712a1a4, ws=false, tls=false 
-法国 = vmess, fr.sixu.cf, 443, username=7dd46db3-9310-4188-bff2-db5f496d6bfb, ws=ture, ws-path=/, ws-headers=Host:fr.sixu.cf,tls=ture 
-美国 = vmess, www.oamxn.ml, 443, username=aab6d511-166a-4cc7-bf92-35f1261c6195, ws=ture, ws-path=/233blog, ws-headers=Host:www.oamxn.ml,tls=ture 
-新加坡 = vmess, 157.230.41.226, 29293, username=ed4fe065-5ad7-4b75-9b61-88aacddeb4bf, ws=false, tls=false 
-香港① = vmess, n157.ssyes.xyz, 80, username=70f5f6b5-d37e-4c16-98c1-1297e590418e, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港② = vmess, n165.ssyes.xyz, 80, username=3fc4d649-67ee-4c42-9e79-8c9ab5784a16, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港③ = vmess, n135.ssyes.xyz, 80, username=d8d8ffd0-9db6-4f56-99aa-1fcc42e94c83, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港④ = vmess, n159.ssyes.xyz, 80, username=3f0f170d-183b-4ce2-8dce-1807c534d71e, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港⑤ = vmess, n131.ssyes.xyz, 80, username=a1bdf7d0-71c6-4ca1-926f-4638e74688a9, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港⑥ = vmess, n226.ssyes.xyz, 80, username=9e6c345d-3147-484e-9ebc-339753aef209, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港⑦ = vmess, n129.ssyes.xyz, 80, username=2255c8e5-d649-425d-a9de-d59834a35d55, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港⑧ = vmess, n130.ssyes.xyz, 80, username=d706473c-fb6b-410e-915b-ac24057b1ea6, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港⑨ = vmess, n228.ssyes.xyz, 80, username=3362f0ae-b4e3-4d2f-9477-2e8acc408002, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-香港⑩ = vmess, n234.ssyes.xyz, 80, username=84f7e48a-176a-40a4-8a08-198333036592, ws=ture, ws-path=, ws-headers=Host:,tls=false 
-加拿大原生IP = vmess, cand.newspacex.ml, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-台湾原生IP = vmess, tw.ssrsky.ml, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-新加坡1原生IP = vmess, sgplv.newspacex.cf, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-新加坡2原生IP = vmess, sgp.newspacex.cf, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-日本1原生IP = vmess, jplv1.newspacex.cf, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-美国原生IP = vmess, uscn2.ssrsky.ml, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-韩国原生IP = vmess, korlv1.newspacex.cf, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
-香港原生IP = vmess, user.ggstudy.top, 44666, username=8a6993ac-2106-34e9-b526-7e8bea06b04f, ws=false, tls=false 
+
 香港GCP1 = vmess, 34.92.46.206, 18080, username=a0f3815f-885b-1071-f3e7-5852914e22fe, ws=false, tls=false 
 香港阿里云 = vmess, 149.129.75.115, 32905, username=c8799835-179b-4a18-905b-f2a208573f2b, ws=false, tls=false
 🌐 from:https://t.me/iShareNews = direct 
