@@ -22,11 +22,13 @@ Quantumult （俗称圈）：美区App Store售价4.99美元
 
 1.ClashA
 
-Android 10系统以下
-👉[v0.0.1-beta3 -版本](https://github.com/ccg2018/ClashA/releases/tag/0.0.1-beta3)（19.6月17日更新）
+   Android 10系统以下
 
-Android 10系统专用
-👉[v0.0.1-beta4-10.20 -版本](https://www.lanzous.com/i6vghsd)（19.10月20日更新）
+👉[v0.0.1-beta3 -版本](https://github.com/ccg2018/ClashA/releases/tag/0.0.1-beta3)（19年6月17日更新）
+
+   Android 10系统专用
+
+👉[v0.0.1-beta4-10.20 -版本](https://www.lanzous.com/i6vghsd)（19年10月20日更新）
 
 2.ShadowrocksR 
 
@@ -63,13 +65,13 @@ Android 10系统专用
 👉[V2.4版本](https://github.com/2dust/v2rayN/releases/download/2.40/v2rayN-Core.zip)（19.9月18日更新）
 
 
-4.SSTap （游戏加速客户端）
+4.SSTap 
 
 
 👉[V1.34 node版本](https://github.com/Srar/node-tap/releases)（19.7月18日更新）
 
 
-5.Netch（游戏加速客户端）
+5.Netch
 
 
 👉[V1.3.3版本](https://github.com/netchx/Netch/releases)（19.10月8日更新）
