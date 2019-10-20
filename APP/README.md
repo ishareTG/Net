@@ -22,8 +22,11 @@ Quantumult （俗称圈）：美区App Store售价4.99美元
 
 1.ClashA
 
+Android 10系统以下
 👉[v0.0.1-beta3 -版本](https://github.com/ccg2018/ClashA/releases/tag/0.0.1-beta3)（19.6月17日更新）
 
+Android 10系统专用
+👉[v0.0.1-beta4-10.20 -版本](https://www.lanzous.com/i6vghsd)（19.10月20日更新）
 
 2.ShadowrocksR 
 
