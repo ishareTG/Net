@@ -99,4 +99,4 @@ Quantumult （俗称圈）：美区App Store售价4.99美元
 注册GLaDOS免费获得28天会员👉[注册教程](http://上网.ml/?page_id=123)
 
 
-# 获取更多资源，请进入👉[电报群](https://t.me/Fly1024)
+# 获取更多资源，请进入👉[电报群](https://t.me/iShareTG)
