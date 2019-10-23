@@ -15,6 +15,6 @@ clash/shadowrocket/quantumult/surge
 
 # [路由器教程](https://github.com/hq450/fancyss/)
 
-# 获取更多资源，请进入👉[电报群](https://t.me/Fly1024)
+# 获取更多资源，请进入👉[电报群](https://t.me/iShareTG)
 
 
