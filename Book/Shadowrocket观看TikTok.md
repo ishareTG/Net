@@ -31,6 +31,8 @@ DOMAIN,api2-19-h2.musical.ly,PROXY
 [MITM]
 hostname = ,api*.tiktokv.com,*.musical.ly,
 enable = true
+
+
 Shadowrocket 2.1.24之前版本复制下面这一段，粘贴到App内编辑的文档内
 
 [Rule]
@@ -58,5 +60,9 @@ enable = true
 如果需要观看不同国家的视频，只需要修改代码中的JP，比如
 
 切换到 US ：((carrier|account|sys)_region=)CN US 302
+
 切换到 UK：((carrier|account|sys)_region=)CN US 302
+
 切换到台湾省：((carrier|account|sys)_region=)CN TW 302
+
+
