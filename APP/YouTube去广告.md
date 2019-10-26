@@ -1,4 +1,4 @@
-# 使用方法
+# IOS版本使用方法
 
 •  点击 [tap to install on device v13]
 
